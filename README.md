@@ -1,2 +1,2 @@
 # guide-images
-Storage for user manuals.
+Storage for ECDS user manuals.
